@@ -3,10 +3,9 @@ page-top-title: Tianci Chen
 top-section-bg-text: Journalism & Communication
 backgrounds:
   - static/assets/background/background_0.jpeg
-  - static/assets/background/background_1.jpeg
 background-interval-ms: 7000
 background-overlay: 0.52
-copyright-text: '&copy; Tianci Chen 2023-2026. All Rights Reserved.'
+copyright-text: '&copy; Tianci Chen 2026-2026. All Rights Reserved.'
 github-link:
   text: Github
   href: https://github.com/senli1073
