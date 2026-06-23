@@ -2,18 +2,15 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is an incoming Ph.D. student in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+My research interests center on computational communication, digital media, and political communication. I study how communication cues in digital media shape what audiences notice, how they interpret public and political messages, and how they respond to them. Methodologically, I use computational social science methods and experimental designs to develop computational measures of these cues and examine their communication effects. I am also interested in the use of large language models in communication research, particularly the validity of using LLMs to measure communication constructs and generate experimental stimuli.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Godsend[at]stu.pku.edu.cn
 
 #### Education
-M.E. in Computer Science and Technology,
-China University of Mining and Technology, 2022–2025
+M.A. in International Communication ,
+Peking University, 2024–2027（Expected）
 
-B.E. in Data Science and Big Data Technology,
-China University of Mining and Technology, 2018–2022
-
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+B.A. in Advertising,
+South China University of Technology, 2020–2024

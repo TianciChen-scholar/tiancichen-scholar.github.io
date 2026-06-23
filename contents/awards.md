@@ -1,13 +1,16 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Horizon Scholarship, Peking University, 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Merit Student, Peking University, 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- FFirst Prize, Poster of the Year 2024, Peking University Student Innovation Hub, 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu Provincial Dept. of Education, China), 2022.
+- Third Prize, Video of the Year 2024, Peking University Student Innovation Hub, 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Outstanding Fellow, “1000+ Pilot” Leadership Program, Peking University, 2024.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- First Prize, Guangdong Division, National Advertising Art Design Competition for College Students, 2022.
 
+- Second Prize, Guangdong Division, National Advertising Art Design Competition for College Students, 2022.
+
+- Third Prize, Guangdong Division, National Advertising Art Design Competition for College Students, 2022.
