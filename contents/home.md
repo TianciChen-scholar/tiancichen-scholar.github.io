@@ -6,7 +6,7 @@ My research interests center on computational communication, digital media, and 
 
 #### Contact
 
-Email: Godsend[at]stu.pku.edu.cn
+Email: Godsend@stu.pku.edu.cn
 
 #### Education
 M.A. in International Communication ,
